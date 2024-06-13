@@ -20,5 +20,4 @@ password=" "
 for char in password_list:
     password+=char
 print(f" your password is:{password}")
-
-#Nice  upload kr doon, ok, can be 
+ 
